@@ -24,3 +24,4 @@ Olá! Eu sou o Matheus Hashimoto, tenho 27 anos e moro em São Paulo, SP. Estou 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushashi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
