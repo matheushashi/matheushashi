@@ -5,7 +5,7 @@ Olá! Eu sou o Matheus Hashimoto, tenho 27 anos e moro em São Paulo, SP. Estou 
 ## Estatísticas do GitHub
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushashi&show_icons=true&theme=radical)
 <div>
-<a href="https://github.com/diegosilva3">
+<a href="https://github.com/matheushashi">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushashi&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushashi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
