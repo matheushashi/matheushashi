@@ -22,7 +22,7 @@ Olá! Eu sou o Matheus Hashimoto, tenho 27 anos e moro em São Paulo, SP. Estou 
 ![Linux](https://img.shields.io/badge/Linux-%23000?style=for-the-badge&logo=linux)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Snake animation](https://github.com/seu-usuário-aqui/matheushashi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
